@@ -1,0 +1,17 @@
+{
+    "name": "ryodevz/testing",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ryodevz\\Testing\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "RyoDev",
+            "email": "ytryo789@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
